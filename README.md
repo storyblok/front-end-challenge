@@ -242,10 +242,11 @@ Response:
 
 ## How to deliver
 
-- Your code should be made available in your own Github repository;
-- After finishing the Storyblok Front-end Challenge, you could provide repo access to:
+Your code should be available in your own Github repository. After finishing the Storyblok Front-end Challenge, you could provide repo access to:
 
 - [@gustavomelki](https://github.com/gustavomelki)
+- [@fariacc](https://github.com/fariacc)
+- [@emanuelgsouza](https://github.com/emanuelgsouza)
 
 ## Questions
 Please, if you have any questions, send an e-mail to Gustavo: gmp@storyblok.com
