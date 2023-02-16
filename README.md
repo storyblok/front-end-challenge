@@ -34,19 +34,19 @@ We want to assess your ability to develop and document a front-end application w
 
 ### 1: The user must be able to see the list of all registered tools
 
-![home](https://iili.io/HE7itgs.png)
+![home](https://i.ibb.co/KVLj65r/home.png)
 
 ### 2: User must be able to add a new tool
 
-![add-tool](https://iili.io/HE7ibdG.png)
+![add-tool](https://i.ibb.co/2FsGKCf/add-tool.png)
 
 ### 3: User must be able to remove a tool
 
-![remove-tool](https://iili.io/HE7im7f.png)
+![remove-tool](https://i.ibb.co/YTsQqsJ/remove-tool.png)
 
 ### 4: The user must be able to fetch tools dynamically (globally or using only tags)
 
-![search](https://iili.io/HE7iQqX.png)
+![search](https://i.ibb.co/NLb1v54/search.png)
 
 
 # API
